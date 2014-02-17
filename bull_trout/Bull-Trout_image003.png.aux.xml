@@ -1,0 +1,53 @@
+<PAMDataset>
+  <SRS>PROJCS[&quot;NAD_1983_Albers&quot;,GEOGCS[&quot;GCS_North_American_1983&quot;,DATUM[&quot;North_American_Datum_1983&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Albers_Conic_Equal_Area&quot;],PARAMETER[&quot;False_Easting&quot;,500000.0],PARAMETER[&quot;False_Northing&quot;,500000.0],PARAMETER[&quot;longitude_of_center&quot;,-132.5],PARAMETER[&quot;Standard_Parallel_1&quot;,68.0],PARAMETER[&quot;Standard_Parallel_2&quot;,61.66666666666666],PARAMETER[&quot;latitude_of_center&quot;,59.0],UNIT[&quot;Meter&quot;,1.0]]</SRS>
+  <Metadata>
+    <MDI key="Software">Microsoft Office</MDI>
+  </Metadata>
+  <Metadata domain="IMAGE_STRUCTURE">
+    <MDI key="INTERLEAVE">PIXEL</MDI>
+  </Metadata>
+  <Metadata domain="xml:ESRI" format="xml">
+    <GeodataXform xsi:type="typens:PolynomialXform" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:typens="http://www.esri.com/schemas/ArcGIS/10.1">
+      <PolynomialOrder>1</PolynomialOrder>
+      <SpatialReference xsi:type="typens:ProjectedCoordinateSystem">
+        <WKT>PROJCS[&quot;NAD_1983_Albers&quot;,GEOGCS[&quot;GCS_North_American_1983&quot;,DATUM[&quot;D_North_American_1983&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Albers&quot;],PARAMETER[&quot;False_Easting&quot;,500000.0],PARAMETER[&quot;False_Northing&quot;,500000.0],PARAMETER[&quot;Central_Meridian&quot;,-132.5],PARAMETER[&quot;Standard_Parallel_1&quot;,68.0],PARAMETER[&quot;Standard_Parallel_2&quot;,61.66666666666666],PARAMETER[&quot;Latitude_Of_Origin&quot;,59.0],UNIT[&quot;Meter&quot;,1.0]]</WKT>
+        <XOrigin>-12920200</XOrigin>
+        <YOrigin>-9265100</YOrigin>
+        <XYScale>335583644.60816491</XYScale>
+        <ZOrigin>-100000</ZOrigin>
+        <ZScale>10000</ZScale>
+        <MOrigin>-100000</MOrigin>
+        <MScale>10000</MScale>
+        <XYTolerance>0.001</XYTolerance>
+        <ZTolerance>0.00020000000000000001</ZTolerance>
+        <MTolerance>0.00020000000000000001</MTolerance>
+        <HighPrecision>true</HighPrecision>
+      </SpatialReference>
+      <SourceGCPs xsi:type="typens:ArrayOfDouble">
+        <Double>155.98839458413929</Double>
+        <Double>-44.224371373307577</Double>
+        <Double>95.63243824242997</Double>
+        <Double>-111.83810792806798</Double>
+        <Double>163.79592146720367</Double>
+        <Double>-163.26962474192081</Double>
+        <Double>112.47802211274855</Double>
+        <Double>-132.08513379029989</Double>
+        <Double>207.87046732551389</Double>
+        <Double>-179.97623451843398</Double>
+      </SourceGCPs>
+      <TargetGCPs xsi:type="typens:ArrayOfDouble">
+        <Double>170095.48433254473</Double>
+        <Double>1709068.8825977668</Double>
+        <Double>30723.179200315848</Double>
+        <Double>675726.19139865786</Double>
+        <Double>980898.74352165312</Double>
+        <Double>643920.69069785252</Double>
+        <Double>315624.53538605198</Double>
+        <Double>615940.31305318698</Double>
+        <Double>1501089.4831260249</Double>
+        <Double>752059.67733675137</Double>
+      </TargetGCPs>
+      <Name />
+    </GeodataXform>
+  </Metadata>
+</PAMDataset>
