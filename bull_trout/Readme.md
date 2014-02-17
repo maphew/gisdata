@@ -6,6 +6,9 @@ This was not created in MS Paint! Where's the data?
 [![lo-res Bull Trout Distribution map, North America](Bull-Trout_image003.png)](https://plus.google.com/116281795685893548599/posts/DX4bzacweYx)﻿
 
 A couple of leads to follow up here: https://plus.google.com/116281795685893548599/posts/DX4bzacweYx
+ 
+> **Note:** the data in this repo is *not* good or authoritative. Digitizing from a lo-res dumb bitmap like this is *not* how to do things. It's a band-aid, a stop-gap measure, and an experiment to explore Github as a geographic data store. If you arrived here looking for the real Bull Trout distribution range data, see the references in the thread noted above (for USA & BC), and for the Yukon Territory contact  "Fish and Wildlife, Fisheries", fisheries@gov.yk.ca and http://www.env.gov.yk.ca/animals-habitat/fish/fishspecies.php
+
 
 ### 2014-Feb-14
 
